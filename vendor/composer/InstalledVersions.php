@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'ea3057dd3fd2e109163bfd1859e07898968d273a',
+    'reference' => '06d3cc5acba83bf5fcf6eb695317c3bfcf7d55e7',
     'name' => 'ofi/deteksinohpindonesia',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ea3057dd3fd2e109163bfd1859e07898968d273a',
+      'reference' => '06d3cc5acba83bf5fcf6eb695317c3bfcf7d55e7',
     ),
   ),
 );
