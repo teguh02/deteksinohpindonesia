@@ -1,4 +1,4 @@
-# deteksinohpindonesia
+# Deteksi No Hp Indonesia
 Package ini digunakan untuk mendeteksi otomatis jenis operator nomor hp Indonesia berdasarkan nomor Hp yang diinputkan
 
 # Author
