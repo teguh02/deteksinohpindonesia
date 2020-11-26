@@ -35,3 +35,31 @@ Dengan ini kamu bisa mendeteksi nomor hp yang diinputkan secara otomatis
 Dengan ini kamu bisa melakukan mendeteksi apakah nomor x itu nomor axis ataukah bukan?
 hasilnya akan di return dalam bentuk boolean (true / false)
 ![carbon (4)](https://user-images.githubusercontent.com/43981051/100327389-d1eaf600-2ffd-11eb-8e3e-8222d69d591f.png)
+
+
+# Demo APP
+kami menyediakan demo sekaligus server API deteksi nomor hp secara otomatis,
+silahkan lihat di
+https://deteksinomerindo.herokuapp.com/
+
+## Cara Penggunaannya adalah
+
+### Single cek nomor hp
+https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=0895802739233
+https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=085600119625
+https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=08986642927
+https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=081807002845
+
+### Multi cek nomor hp
+Pisahkan nomor hp dengan koma dan harus di encode, contoh kode phpnya seperti ini 
+
+<code>
+  echo "https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=" . urlencode('nomor1,nomor2,nomor3');
+</code>
+
+<br>
+
+Contohnya seperti ini
+https://deteksinomerindo.herokuapp.com/DeteksiNoHpIndonesiaHeroku/?nomorhp=0895802739233%2C085600119625%2C08986642927%2C081807002845
+
+
