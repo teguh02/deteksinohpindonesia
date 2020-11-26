@@ -4,6 +4,14 @@ Package ini digunakan untuk mendeteksi otomatis jenis operator nomor hp Indonesi
 # Author
 Teguh Rijanandi - teguhrijanandi02@gmail.com
 
+# Instalasi
+Mengggunakan composer
+<code>
+  composer require ofi/deteksinohpindonesia
+</code>
+
+Atau kamu juga bisa mengunduh repository ini dan mengimport autoloadnya secara manual, seperti yang sudah di contohkan pada gambar dibawah ini
+
 # Dokumentasi
 Untuk cara penggunaan bisa dilihat pada file index.php
 https://github.com/teguh02/deteksinohpindonesia/blob/master/index.php
