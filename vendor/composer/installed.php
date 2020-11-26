@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '06d3cc5acba83bf5fcf6eb695317c3bfcf7d55e7',
+    'reference' => 'b130e3e08fedeb4fab29284021c3e78add8793ff',
     'name' => 'ofi/deteksinohpindonesia',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '06d3cc5acba83bf5fcf6eb695317c3bfcf7d55e7',
+      'reference' => 'b130e3e08fedeb4fab29284021c3e78add8793ff',
     ),
   ),
 );
