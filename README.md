@@ -62,6 +62,8 @@ Pisahkan nomor hp dengan koma dan harus di encode, contoh kode phpnya seperti in
 echo "https://deteksinomerindo.herokuapp.com/?nomorhp=" . urlencode('nomor1,nomor2,nomor3');
 </code>
 
+<br>
+
 Contohnya seperti ini
 https://deteksinomerindo.herokuapp.com/?nomorhp=0895802739233%2C085600119625%2C08986642927%2C081807002845
 
