@@ -1,0 +1,26 @@
+{
+    "name": "ofi/deteksinohpindonesia",
+    "description": "Package ini digunakan untuk mendeteksi otomatis jenis operator nomor hp Indonesia berdasarkan nomor Hp yang diinputkan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "teguh02",
+            "email": "teguhrijanandi02@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ofi\\deteksinohpindonesia\\": "src/"
+        }
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+            "ofi\\deteksinohpindonesia\\": "src/"
+        }
+    }
+}
