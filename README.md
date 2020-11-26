@@ -47,9 +47,13 @@ https://deteksinomerindo.herokuapp.com/
 
 ### Single cek nomor hp
 https://deteksinomerindo.herokuapp.com/?nomorhp=0895802739233
+<br>
 https://deteksinomerindo.herokuapp.com/?nomorhp=085600119625
+<br>
 https://deteksinomerindo.herokuapp.com/?nomorhp=08986642927
+<br>
 https://deteksinomerindo.herokuapp.com/?nomorhp=081807002845
+<br>
 
 ### Multi cek nomor hp
 Pisahkan nomor hp dengan koma dan harus di encode, contoh kode phpnya seperti ini
