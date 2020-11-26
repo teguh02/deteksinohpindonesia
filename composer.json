@@ -9,9 +9,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "php": "^5.4"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "ofi\\deteksinohpindonesia\\": "src/"
