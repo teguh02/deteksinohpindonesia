@@ -58,8 +58,6 @@ https://deteksinomerindo.herokuapp.com/?nomorhp=081807002845
 ### Multi cek nomor hp
 Pisahkan nomor hp dengan koma dan harus di encode, contoh kode phpnya seperti ini
 
-<br>
-
 <code>
 echo "https://deteksinomerindo.herokuapp.com/?nomorhp=" . urlencode('nomor1,nomor2,nomor3');
 </code>
