@@ -241,6 +241,10 @@ class Client extends Prefix {
         if (strpos($phone_number, "+62") !== false) {
             throw new Exception("Awal nomor hp harus 0, tidak boleh mengandung +62");
         }
+
+        if (!is_numeric($phone_number)) {
+            throw new Exception("Masukan nomor hp dengan benar");
+        }
     }
 
 }   
