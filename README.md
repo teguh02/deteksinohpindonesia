@@ -26,14 +26,14 @@ Sebelum menggunakan package ini, kamu harus mengimport autoload dan classnya ter
 <br>
 
 2. Deteksi nomor secara otomatis
-Dengan ini kamu bisa mendeteksi nomor hp yang diinputkan secara otomatis
+<div>Dengan ini kamu bisa mendeteksi nomor hp yang diinputkan secara otomatis</div>
 ![carbon (1)](https://user-images.githubusercontent.com/43981051/100327166-7a4c8a80-2ffd-11eb-897d-29351e8c4145.png)
 
 <br>
 
 3. Deteksi nomor berdasarkan operator
-Dengan ini kamu bisa melakukan mendeteksi apakah nomor x itu nomor axis ataukah bukan?
-hasilnya akan di return dalam bentuk boolean (true / false)
+<div>Dengan ini kamu bisa melakukan mendeteksi apakah nomor x itu nomor axis ataukah bukan?</div>
+<div>hasilnya akan di return dalam bentuk boolean (true / false)</div>
 ![carbon (4)](https://user-images.githubusercontent.com/43981051/100327389-d1eaf600-2ffd-11eb-8e3e-8222d69d591f.png)
 
 
